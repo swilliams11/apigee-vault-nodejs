@@ -3,9 +3,11 @@ This is a Node.js application that uses Apigee vault.
 
 # Prereqs
 To deploy this application you must have
-1 Apigee public or on-premises access
-2 You must install [apigeetool](https://www.npmjs.com/package/apigeetool)
-3 Create a vault in your Apigee organization
+ 1. Apigee public or on-premises access
+ 
+ 2. You must install [apigeetool](https://www.npmjs.com/package/apigeetool)
+ 
+ 3. Create a vault in your Apigee organization
 
 # Create a Vault and add Items
 Apigee [Vault documentation](http://docs.apigee.com/api-reference/api/vaults).
